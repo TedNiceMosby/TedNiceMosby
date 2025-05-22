@@ -1,8 +1,11 @@
-<!--horizontal divider(gradiant)-->
-<!--h1 without bottom border--
+<!-- h2 sin borde inferior, con cursiva -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Evelyn</h1></summary>
+    <summary>
+      <h2 style="display: inline-block; border-bottom: none; font-style: italic;">
+        Confusion is part of Programming
+      </h2>
+    </summary>
   </ul>
 </div>
 
