@@ -9,10 +9,6 @@
 
 - 📊 I'm passionate about **data science**, especially data analysis and exploration.
 
-- 💻 I have experience with **databases**, both relational and non-relational.
-
-- 🧱 I'm skilled in **Full Stack Java development**, with a strong focus on **backend technologies**.
-
 - 🌱 I'm always learning new technologies and improving my skills in modern web development.
 
 - 📫 Feel free to reach out if you're interested in collaborating or talking tech!
